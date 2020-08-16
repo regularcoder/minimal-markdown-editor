@@ -1,8 +1,0 @@
-{
-    "identifier": "org.yourdomain.my-extension",
-    "name": "Minimal Markdown Editor",
-    "content_type": "SN|Component",
-    "area": "editor-editor",
-    "version": "1.0.0",
-    "url": "https://sn-minimal-markdown.imfast.io/"
-  }
